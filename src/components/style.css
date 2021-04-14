@@ -1,0 +1,15 @@
+table {
+    border-spacing: 0px;
+    margin: 8px auto;
+}
+th{
+    background-color: #bababa;
+    text-align: center;
+    min-width: 100px;
+}
+td{
+    text-align: center;
+    padding: 8px 12px;
+    border-bottom:#e0e0e0 1px solid;
+}
+tr:nth-child(even){background-color: #f2f2f2;}

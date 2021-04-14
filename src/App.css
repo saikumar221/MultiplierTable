@@ -1,0 +1,26 @@
+.App{
+  margin-top: 32px;
+}
+.controllers{
+  margin: 16px 0px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+.searchBar{
+  margin: 5px;
+}
+.multiplier{
+  /* display: flex;
+  justify-content: center; */
+  margin-left: 32px;
+}
+.input{
+  height: 30px;
+ }
+
+.button{
+  padding: 4px;
+  margin: 4px;
+  width: 70px;
+} 
